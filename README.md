@@ -1,2 +1,37 @@
-# EmbarcaderoConference2023
-Slide e exemplos Embarcadero Conference 2023
+# Embarcadero Conference 2023
+<a href="https://github.com/Code4Delphi/EmbarcaderoConference2023/blob/master/Code4D-Wizard-e-OTA.ppsx" target="_blank">
+Slide e exemplos Embarcadero Conference 2023 (PowerPoint)
+</a>
+
+<br/>
+<br/>
+
+<a href="https://www.canva.com/design/DAFs-QnEZkk/urup_Nt1NH1xWjcVjKUm5A/view?utm_content=DAFs-QnEZkk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+Slide e exemplos Embarcadero Conference 2023 (Canva)
+</a>
+
+# 📞 Contacts
+
+<p align="left">
+  <a href="https://t.me/Code4Delphi" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram:-Join%20Channel-blue?logo=telegram">
+  </a> 
+  &nbsp;
+  <a href="mailto:contato@code4delphi.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-contato%40code4delphi.com.br-yellowgreen?logo=maildotru&logoColor=yellowgreen">
+  </a>
+   &nbsp;
+  <a href="https://go.hotmart.com/U81331747Y?dp=1" target="_blank">
+    <img src="https://img.shields.io/badge/Course:-Open%20Tools%20API-F00?logo=delphi">
+  </a> 
+   &nbsp;
+  <a href="https://www.youtube.com/@code4delphi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube:-Join%20Channel-red?logo=youtube&logoColor=red">
+  </a> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/Code4Delphi/Code4D-Wizard/blob/master/Img/C4D-Logo.png">
+    <img alt="Horse" height="100" src="https://github.com/Code4Delphi/Code4D-Wizard/blob/master/Img/c4d-logo-100x100.png">
+  </a>  
+</p>
